@@ -7,6 +7,6 @@
 `pip install datetime`<br>
 
 #Wanna add new face???<br>
-Just add new image in images folder.`<br>
+`Just add new image in images folder.`<br>
 
 #Run & Enjoy
